@@ -1,7 +1,12 @@
 # FastAPI-with-CRUD
 This is Python's framework FastAPI to connect SQLite database with SQLAlchemy framework
 
-# pip install module
+# Prepare
+## Virtual enviroment
+```
+pip install virtualenv
+```
+## requirements
 ```txt
 anyio==3.3.4
 asgiref==3.4.1
@@ -20,3 +25,5 @@ starlette==0.16.0
 typing-extensions==3.10.0.2
 uvicorn==0.15.0
 ```
+
+# Get Start

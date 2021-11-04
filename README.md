@@ -62,3 +62,5 @@ D:\fastapi\app>Scripts\activate
 ...
 ```
 
+reference: https://fastapi.tiangolo.com/tutorial/sql-databases/
+reference: https://blog.balasundar.com/building-a-crud-app-with-fastapi-and-mysql
